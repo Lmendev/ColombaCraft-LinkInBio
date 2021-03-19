@@ -10,7 +10,7 @@ export class Header extends Component {
 
         return (
             <header>
-                <div>
+                <div className="circle-shape">
                     <img src={logo} alt=""/>
                 </div>
 
@@ -19,8 +19,8 @@ export class Header extends Component {
                 </div>
 
                 <div>
-                    <p>{text1}</p>
-                    <p>{text2}</p>
+                    <p>{text1}<span class="hand__animation">👋</span></p>
+                    <p></p>
                 </div>
 
             </header>

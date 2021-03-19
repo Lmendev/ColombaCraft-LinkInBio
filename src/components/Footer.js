@@ -1,12 +1,14 @@
 import React, { Component } from 'react'
 
+import db from '../server/db'
+
 import './styles/footer.css'
 
 export class Footer extends Component {
     render() {
         return (
             <footer>
-                Stickers y productos que personalizan tu mundo 🙌
+                {db.footer.text}
             </footer>
         )
     }

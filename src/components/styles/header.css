@@ -1,8 +1,45 @@
 header{
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 
 header img{
+    height: 8rem;
+}
+
+.circle-shape {
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
     width: 8rem;
+    height: 8rem;
+}
+
+header h1 {
+    font-family: 'calibri-bold';
+    margin-bottom: 0;
+}
+
+header p {
+    font-family: 'calibri-bold';
+}
+
+@keyframes handAnimation {
+    0% {transform: rotate(0deg);}
+    10% {transform: rotate(-10deg);}
+    20% {transform: rotate(12deg);}
+    30% {transform: rotate(-10deg);}
+    40% {transform: rotate(9deg);}
+    50% {transform: rotate(0deg);}
+    100% {transform: rotate(0deg);}
+}
+
+.hand__animation {
+    animation-duration: 1.2s;
+    animation-iteration-count: infinite;
+    animation-name: handAnimation;
+    display: inline-block;
+    transform-origin: 70% 70%;
+    font-size:1.2rem;
 }

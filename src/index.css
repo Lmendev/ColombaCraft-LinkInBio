@@ -1,10 +1,21 @@
+@font-face {
+  font-family: calibri-bold;
+  src: url(./fonts/calibri-bold.ttf);
+}
+
+@font-face {
+  font-family: segoesc;
+  src: url(./fonts/segoesc.ttf);
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'segoesc', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
