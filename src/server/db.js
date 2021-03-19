@@ -8,8 +8,8 @@ const db =
   {
     "header": {
       "name": "@ColombaCraft",
-      "text1": "text1",
-      "text2": "text2",
+      "text1": "Stickers y productos que personalizan tu mundo",
+      "text2": "",
       "logo": colomba
     },
     "socialprofiles": [
@@ -21,7 +21,7 @@ const db =
       },
       {
         "id": "2",
-        "link": "https://www.colombacraft.com/",
+        "link": "#",
         "logo": playstore,
         "text": "Play Store"
       },
@@ -29,17 +29,17 @@ const db =
         "id": "3",
         "link": "https://www.colombacraft.com/",
         "logo": web,
-        "text": "WebSite"
+        "text": "Web Site"
       },
       {
         "id": "4",
-        "link": "https://www.colombacraft.com/",
+        "link": "mailto:contacto@colombacraft.com?subject=Contacto desde LinkinBio&body=Hola Colombacraft 😃! %0D%0A%0D%0ALos he visto en las redes y me gustaría contactarlos por el siguiente motivo: %0D%0A%0D%0A",
         "logo": mail,
-        "text": "Mail"
+        "text": "Send Email"
       }
     ],
     "footer": {
-      "text": "Stickers y productos que personalizan tu mundo 🙌"
+      "text": ""
     }
   }
 
