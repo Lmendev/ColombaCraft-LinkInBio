@@ -6,7 +6,7 @@ import db from '../server/db'
 
 export class Header extends Component {
     render() {
-        const {name, text1, text2, logo} = db.header
+        const {name, text1, logo} = db.header
 
         return (
             <header>
