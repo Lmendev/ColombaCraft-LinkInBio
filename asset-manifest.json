@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea62ed1e.css",
+    "main.js": "/static/js/main.dca2e070.js",
+    "static/js/808.d9d60b3e.chunk.js": "/static/js/808.d9d60b3e.chunk.js",
+    "static/media/segoesc.ttf": "/static/media/segoesc.d41101786803c9bb5029.ttf",
+    "static/media/calibri-bold.ttf": "/static/media/calibri-bold.2a395801889fd1369536.ttf",
+    "static/media/logo-colomba-craft.gif": "/static/media/logo-colomba-craft.631323235263ade53768.gif",
+    "static/media/web.svg": "/static/media/web.4ce2c980a97dc63b103ad80fb468c3a9.svg",
+    "index.html": "/index.html",
+    "static/media/instagram.svg": "/static/media/instagram.9f6144f304804eaad1421d68ebc75063.svg",
+    "static/media/playstore.svg": "/static/media/playstore.372cb736789da01717ccb3595ce31431.svg",
+    "static/media/mail.svg": "/static/media/mail.c745695a4985fb78307ea2fe7a96e6ca.svg",
+    "main.ea62ed1e.css.map": "/static/css/main.ea62ed1e.css.map",
+    "main.dca2e070.js.map": "/static/js/main.dca2e070.js.map",
+    "808.d9d60b3e.chunk.js.map": "/static/js/808.d9d60b3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea62ed1e.css",
+    "static/js/main.dca2e070.js"
+  ]
+}
